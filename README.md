@@ -1,0 +1,3 @@
+# Guessing_game-javascript
+
+Simple javascript to run a number guessing game in console...
